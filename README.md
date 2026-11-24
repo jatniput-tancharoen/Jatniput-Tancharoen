@@ -1,44 +1,56 @@
-<!-- Banner ส่วนหัว (เปลี่ยนลิงก์รูปภาพได้ตามต้องการ) -->
+<!-- =============== HERO =============== -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20[เจตนิพัทธ์ ตั๋นเจริญ]!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:171044,55:302b63,100:00E5FF&height=250&section=header&text=JATNIPUT%20TANCHAROEN&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=57"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+Code+%E2%9A%A1;Learning+%7C+Creating+%7C+Innovating;Code.+Create.+Innovate.+%F0%9F%9A%80"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=jatniput-kuth&style=for-the-badge&color=7B2FF7&label=PROFILE+VISITORS"/>
+<img src="https://img.shields.io/github/followers/jatniput-kuth?style=for-the-badge&color=00D4FF&label=FOLLOWERS"/>
+
 </div>
-
-### 👨‍💻 เกี่ยวกับฉัน (About Me)
-
-สวัสดีครับ! ผมชื่อ **เจตนิพัทธ์ ตั๋นเจริญ** เป็น **นักศึกษาปี 2** ที่หลงใหลในการเขียนโค้ดและการแก้ปัญหาด้วยเทคโนโลยี
-
-- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ: **เทคโนโลยีที่กำลังศึกษา เช่น Cloud, AI**
-- 💬 สามารถพูดคุยและปรึกษาเรื่อง: **ความถนัดของคุณ เช่น , Python, C++**
-- 📫 ช่องทางการติดต่อ: **jatniput.t@ku.th**
 
 ---
-### 📊 สถิติบน GitHub (GitHub Stats)
+
+<!-- =============== ABOUT ME =============== -->
 
 <div align="center">
-  <!-- 1. ถ้วยรางวัลความสำเร็จ (GitHub Trophies) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-  </a>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=400&lines=%3C+ABOUT+ME+%2F%3E"/>
+
 </div>
+
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+### 👨‍💻 Hello, I'm Jatniput!
+
+I'm a Software Developer and Tech Enthusiast from Kasetsart University.
+
+- 🔭 Currently working on **KU Project**
+- 🌱 Currently learning **HTML, JavaScript, CSS**
+- 💬 Ask me about **LUA**
+- 📫 Email: **jatniput.t@ku.th**
+- ⚡ Motto: **Code. Create. Innovate.**
 
 <br/>
 
-<div align="center">
-  <!-- 2. สถิติการเขียนโค้ดต่อเนื่อง (GitHub Streak Stats) -->
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=00E5FF&width=350&lines=Passionate+about+technology;Always+learning+new+things;Turning+ideas+into+reality"/>
 
-<br/>
+</td>
 
-<div align="center">
-  <!-- 3. ภาพรวมสถิติ และ ภาษาที่ใช้บ่อย (ปรับให้ขอบมนและไร้กรอบดูคลีนขึ้น) -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=JatniputE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatniput&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
-</div>
+<td width="40%" align="center">
 
-<br/>
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🌐 ช่องทางติดตาม (Connect with me)
+</td>
+</tr>
+</table>
 
-<a href="mailto:[jatniput.t@ku.th]"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+---
+
+<!-- =============== TECH STACK =============== -->
