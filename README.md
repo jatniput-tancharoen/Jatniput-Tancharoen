@@ -1,16 +1,15 @@
 <!-- Banner ส่วนหัว (เปลี่ยนลิงก์รูปภาพได้ตามต้องการ) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20[ชื่อของคุณ]!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20[เจตนิพัทธ์ ตั๋นเจริญ]!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
 ### 👨‍💻 เกี่ยวกับฉัน (About Me)
 
-สวัสดีครับ! ผมชื่อ **[เจตนิพัทธ์ ตั๋นเจริญ]** เป็น **[ตำแหน่ง เช่น Full-Stack Developer / Data Analyst / นักศึกษาปี 2]** ที่หลงใหลในการเขียนโค้ดและการแก้ปัญหาด้วยเทคโนโลยี
+สวัสดีครับ! ผมชื่อ **[เจตนิพัทธ์ ตั๋นเจริญ]** เป็น **[นักศึกษาปี 2]** ที่หลงใหลในการเขียนโค้ดและการแก้ปัญหาด้วยเทคโนโลยี
 
-- 🔭 ปัจจุบันกำลังพัฒนาโปรเจกต์: **[ชื่อโปรเจกต์ที่กำลังทำ]**
-- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ: **[เทคโนโลยีที่กำลังศึกษา เช่น Cloud, AI, Rust]**
-- 💬 สามารถพูดคุยและปรึกษาเรื่อง: **[ความถนัดของคุณ เช่น React, Python, System Design]**
-- 📫 ช่องทางการติดต่อ: **[อีเมลของคุณ]**
+- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ: **[เทคโนโลยีที่กำลังศึกษา เช่น Cloud, AI]**
+- 💬 สามารถพูดคุยและปรึกษาเรื่อง: **[ความถนัดของคุณ เช่น , Python, C++]**
+- 📫 ช่องทางการติดต่อ: **[jatniput.t@ku.th]**
 
 ---
 
