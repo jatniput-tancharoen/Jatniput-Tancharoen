@@ -5,46 +5,40 @@
 
 ### 👨‍💻 เกี่ยวกับฉัน (About Me)
 
-สวัสดีครับ! ผมชื่อ **[เจตนิพัทธ์ ตั๋นเจริญ]** เป็น **[นักศึกษาปี 2]** ที่หลงใหลในการเขียนโค้ดและการแก้ปัญหาด้วยเทคโนโลยี
+สวัสดีครับ! ผมชื่อ **เจตนิพัทธ์ ตั๋นเจริญ** เป็น **นักศึกษาปี 2** ที่หลงใหลในการเขียนโค้ดและการแก้ปัญหาด้วยเทคโนโลยี
 
-- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ: **[เทคโนโลยีที่กำลังศึกษา เช่น Cloud, AI]**
-- 💬 สามารถพูดคุยและปรึกษาเรื่อง: **[ความถนัดของคุณ เช่น , Python, C++]**
-- 📫 ช่องทางการติดต่อ: **[jatniput.t@ku.th]**
-
----
-
-### 🛠️ เทคโนโลยีและเครื่องมือที่ใช้ (Tech Stack)
-
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Tools & Databases:**
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ: **เทคโนโลยีที่กำลังศึกษา เช่น Cloud, AI**
+- 💬 สามารถพูดคุยและปรึกษาเรื่อง: **ความถนัดของคุณ เช่น , Python, C++**
+- 📫 ช่องทางการติดต่อ: **jatniput.t@ku.th**
 
 ---
-
 ### 📊 สถิติบน GitHub (GitHub Stats)
-<!-- เปลี่ยนคำว่า YOUR_USERNAME เป็นชื่อ Username GitHub ของคุณ -->
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jatniput&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatniput&layout=compact&langs_count=8&theme=tokyonight"/>
+  <!-- 1. ถ้วยรางวัลความสำเร็จ (GitHub Trophies) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  </a>
 </div>
 
----
+<br/>
+
+<div align="center">
+  <!-- 2. สถิติการเขียนโค้ดต่อเนื่อง (GitHub Streak Stats) -->
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- 3. ภาพรวมสถิติ และ ภาษาที่ใช้บ่อย (ปรับให้ขอบมนและไร้กรอบดูคลีนขึ้น) -->
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=JatniputE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatniput&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
+</div>
+
+<br/>
 
 ### 🌐 ช่องทางติดตาม (Connect with me)
 
-<p align="left">
-  <a href="[ลิงก์ LinkedIn ของคุณ]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="[ลิงก์ Portfolio หรือ Website ของคุณ]" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:[อีเมลของคุณ]"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:[jatniput.t@ku.th]"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
